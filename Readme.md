@@ -6,11 +6,15 @@
 
 ## Content
 
-[Summary]()
-[Game]()
-[Map]()
-[Bonus]()
-[Sources]()
+[Summary](https://github.com/D-Dashka/so_long#summary)
+
+[Game](https://github.com/D-Dashka/so_long#game)
+
+[Map](https://github.com/D-Dashka/so_long#map)
+
+[Bonus](https://github.com/D-Dashka/so_long#bonus)
+
+[Sources](https://github.com/D-Dashka/so_long#sources)
 
 ## Summary
 
@@ -26,9 +30,9 @@ The program <code>so_long</code> should take map as a parameter and display game
 
 • The player’s goal is to collect every collectible present on the map, then escape chosing the shortest possible route.
 
-• The W, A, S, and D keys must be used to move the main character.
+• The ***W, A, S***, and ***D*** keys must be used to move the main character.
 
-• The player should be able to move in these 4 directions: up, down, left, right.
+• The player should be able to move in these 4 directions: ***up, down, left, right***.
 
 • The player should not be able to move into walls.
 
