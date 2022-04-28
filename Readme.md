@@ -14,6 +14,8 @@
 
 [Bonus](https://github.com/D-Dashka/so_long#bonus)
 
+[How tu run](https://github.com/D-Dashka/so_long#https://github.com/D-Dashka/so_long#how-to-run)
+
 [Sources](https://github.com/D-Dashka/so_long#sources)
 
 ## Summary
