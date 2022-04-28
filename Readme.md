@@ -154,7 +154,7 @@ else if (player_pos_y > mid_height || enemy_position_y < player_pos_y)
 
 ## How to run
 
-make compile both so_long and so_long_bonus programs
+make compile both <code>so_long</code> and <code>so_long_bonus</code> programs
 
 	make
 
