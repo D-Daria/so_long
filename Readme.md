@@ -164,7 +164,7 @@ To run game with animation you can run so_long_bonus program with map as argumen
 
 For example
 
-	./so_long_bonus maps/21_map_bonus.ber
+	./so_long_bonus maps/21_bonus.ber
 
 ## Sources:
 
