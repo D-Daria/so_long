@@ -4,7 +4,7 @@
 
 <br>
 
-<div style="display: flex; gap: 5px; justify-content: center; align-items: flex-start;">
+<div align="center">
 <span>
 	<img src="https://img.shields.io/badge/language-00599C?logo=C&logoColor=white&style=for-the-badge">
 </span>
