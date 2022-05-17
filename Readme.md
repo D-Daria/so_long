@@ -26,7 +26,7 @@
 
 [Sources](https://github.com/D-Dashka/so_long#sources)
 
-## Summary
+## 📄 Summary
 
 This project is a very small 2D game.
 
@@ -36,7 +36,7 @@ It is my first computer graphic project at School21 where we need to use graphic
 
 The program <code>so_long</code> should take map as a parameter and display game in a window.
 
-## Game
+## 🎮 Game
 
 • The player’s goal is to collect every collectible present on the map, then escape chosing the shortest possible route.
 
@@ -50,7 +50,7 @@ The program <code>so_long</code> should take map as a parameter and display game
 
 • You have to use a 2D view (top-down or profile).
 
-## Map
+## 🗺 Map 
 
 The map can be composed of only these 5 characters:
 
@@ -84,7 +84,7 @@ The map can be composed of only these 5 characters:
 
 All maps are located in <code>maps</code> directory.
 
-## Bonus
+## 😈 Bonus
 
 • Make the player lose when they touch an enemy patrol.
 
@@ -162,7 +162,7 @@ else if (player_pos_y > mid_height || enemy_position_y < player_pos_y)
 	move enemy down;
 ```
 
-## How to run
+## 🏁 How to run
 
 make compile both <code>so_long</code> and <code>so_long_bonus</code> programs
 
@@ -176,7 +176,7 @@ For example
 
 	./so_long_bonus maps/21_bonus.ber
 
-## Game preview
+### Game preview
 
 **⚠️** Be aware of enemies!!! 
 
@@ -184,7 +184,7 @@ For example
 	<img src="repo_imgs/so_long_preview.png" max-height="250" alight="center">
 </div>
 
-## Sources:
+## 🔗 Sources:
 
 Assets I used to create a game
 
