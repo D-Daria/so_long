@@ -1,5 +1,13 @@
 <div align="center" max-width="auto" max-height="auto">
-	<img src="imgs/21_42_logos.png" max-height="250" alight="center">
+	<img src="repo_imgs/21_42_logos.png" max-height="250" alight="center">
+</div>
+
+<br>
+
+<div align="center" max-width="auto" max-height="auto">
+
+![GitHub top language](https://img.shields.io/badge/language-00599C?logo=C&logoColor=white&style=for-the-badge)
+
 </div>
 
 # 🎮 so_long ...and thanks for all the fish 🐟
@@ -74,7 +82,7 @@ The map can be composed of only these 5 characters:
 • You must be able to parse any kind of map, as long as it respects the above rules.
 </details>
 
-All maps are located in maps directory.
+All maps are located in <code>maps</code> directory.
 
 ## Bonus
 
@@ -160,11 +168,21 @@ make compile both <code>so_long</code> and <code>so_long_bonus</code> programs
 
 	make
 
-To run game with animation you can run so_long_bonus program with map as argument with *_bonus* suffix. 
+To run game with animation you can run <code>so_long_bonus</code> program with map as argument with *_bonus* suffix. 
+
+All maps are located in <code>maps</code> directory.
 
 For example
 
 	./so_long_bonus maps/21_bonus.ber
+
+## Game preview
+
+**⚠️** Be aware of enemies!!! 
+
+<div align="center" max-width="auto" max-height="auto">
+	<img src="repo_imgs/so_long_preview.png" max-height="250" alight="center">
+</div>
 
 ## Sources:
 
