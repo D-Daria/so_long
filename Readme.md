@@ -4,11 +4,13 @@
 
 <br>
 
-<div align="center" max-width="auto" max-height="auto">
-
-![GitHub top language](https://img.shields.io/badge/language-00599C?logo=C&logoColor=white&style=for-the-badge)
-
+<div style="display: flex; gap: 5px; justify-content: center; align-items: flex-start;">
+<span>
+	<img src="https://img.shields.io/badge/language-00599C?logo=C&logoColor=white&style=for-the-badge">
+</span>
 </div>
+
+<br>
 
 # 🎮 so_long ...and thanks for all the fish 🐟
 
