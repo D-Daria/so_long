@@ -16,17 +16,17 @@
 
 ## Content
 
-[Summary](https://github.com/D-Dashka/so_long#summary)
+[Summary](https://github.com/D-Dashka/so_long#-summary)
 
-[Game](https://github.com/D-Dashka/so_long#game)
+[Game](https://github.com/D-Dashka/so_long#-game)
 
-[Map](https://github.com/D-Dashka/so_long#map)
+[Map](https://github.com/D-Dashka/so_long#-map)
 
-[Bonus](https://github.com/D-Dashka/so_long#bonus)
+[Bonus](https://github.com/D-Dashka/so_long#-bonus)
 
-[How to run](https://github.com/D-Dashka/so_long#how-to-run)
+[How to run](https://github.com/D-Dashka/so_long#-how-to-run)
 
-[Sources](https://github.com/D-Dashka/so_long#sources)
+[Sources](https://github.com/D-Dashka/so_long#-sources)
 
 ## 📄 Summary
 
