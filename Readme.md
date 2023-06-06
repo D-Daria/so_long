@@ -180,7 +180,7 @@ For example
 
 ### Game preview
 
-**⚠️** Be aware of enemies!!! 
+**⚠️** Beware of enemies!!!
 
 <div align="center" max-width="auto" max-height="auto">
 	<img src="repo_imgs/so_long_preview.png" max-height="250" alight="center">
